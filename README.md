@@ -14,32 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My name is Sharan 😁 ❤️
+**My name is Sharan 😁 ❤️**
 
-#### All I need is A Spark, A Point, A Road to Begin my Professional Career
+**All I need is A Spark, A Point, A Road to Begin my Professional Career**
 
 - **I am a Software Developer with a Dash of Application Security and greatly interested in Network, Application and Hardware Security.**
 
-- ### Also a DIY Handyman working around Old HiFi Systems, Electronics, Cars, Computers, Legos, Home Wiring and Motorcycles.
+- **Also a DIY Handyman working around Old HiFi Systems, Electronics, Cars, Computers, Legos, Home Wiring and Motorcycles.**
 
-- ### I am a Computer Science and Engineering Graduate from Karunya Institute of Technology and Sciences, Class of 2023. 
+- **I am a Computer Science and Engineering Graduate from Karunya Institute of Technology and Sciences, Class of 2023.** 
 
 ## My Tech Stack:- 
 
-#### <u><b>LANGUAGES</b></u> :-  C, C++, Java, C#, Native Android Development, Rust, Go
+- <u><b>LANGUAGES</b></u> :-  C, C++, Java, C#, Native Android Development, Rust, Go
 
 Go(Mainly for Research in Distributed Systems and IPC, Message Passing - Event Driven Architecture)
 
-#### <u><b>FRAMEWORKS</b></u> :- Spring Boot, ASP.NET, Axum
+- <u><b>FRAMEWORKS</b></u> :- Spring Boot, ASP.NET, Axum
 
-#### <u><b>DATABASES</b></u> :-  Redis, MongoDB, PostgreSQL, MySQL, Microsoft SQL
+- <u><b>DATABASES</b></u> :-  Redis, MongoDB, PostgreSQL, MySQL, Microsoft SQL
+
 (Have used MariaDB, Hadoop and Cassandara as a part of under grad as well)
 
-### My Tech Stack is Kinda Small.<br>Me and JavaScript Haven't Reached <u><b>An ACCORD</b></u> Through A <u><b> PARLEY</b></u>. <br>Using Vite to setup a ReactJS project with Tailwind was the Final Nail in the Coffin that drove me Gaga 💃🏻🕺🏻.  
+**My Tech Stack is Kinda Small.<br>Me and JavaScript Haven't Reached <u><b>An ACCORD</b></u> Through A <u><b> PARLEY</b></u>. <br>Using Vite to setup a ReactJS project with Tailwind was the Final Nail in the Coffin that drove me Gaga 💃🏻🕺🏻.**
 
 ## Now the Boorriinngg or 😃 the Exciting Stuff - My Mind Vomit 😂:- 
 
-### As you can already tell - I don't want to copy a Profile readme file,because everyone does it and it wouldn't describe my personality, not even at least for a percentage of it.
+**As you can already tell - I don't want to copy a Profile readme file,because everyone does it and it wouldn't describe my personality, not even at least for a percentage of it.**
 
  - I hate JS because it tends to be a Bas.. Bass Guitarist and Son of a Bi.. BitLocker with type casting, function calls and etc.
 
@@ -49,13 +50,13 @@ Go(Mainly for Research in Distributed Systems and IPC, Message Passing - Event D
  
  - Guides being university notes(grad and post grad) and documentations. Building up an army of repositories so in the case of a  freelance work I don't become stuck like "Holy Shite Balls".
  
- ### I have nobody(except eh, my parents?🤔🤒) and<br> I am my own Everybody.
+ **I have nobody(except eh, my parents?🤔🤒) and<br> I am my own Everybody.**
  
-### Some days I have the energy, Some days I don't. <br> <br>Hence my GitHub Commit history - Green Flag ✅ is looking more like a Checkered Flag 🏁 🏁 🏳️ 🏳️ - <br>Like I have Relationship and Commitment Issues 💔. 
+**Some days I have the energy, Some days I don't. <br> <br>Hence my GitHub Commit history - Green Flag ✅ is looking more like a Checkered Flag 🏁 🏁 🏳️ 🏳️ - <br>Like I have Relationship and Commitment Issues 💔.**
 
-### Hey atleast I am a Green flag 😉
+**Hey atleast I am a Green flag 😉**
 
-#### <u> Thank you for sticking along till the end of my dump of emotions</u> ,<br><u> More of my mind vomit can be found</u> - ["Here"](https://github.com/sharansudheer/museum-of-projects)
+**<u> Thank you for sticking along till the end of my dump of emotions</u> 😍 ,<br> More of my mind vomit can be found - ["Here"](https://github.com/sharansudheer/museum-of-projects)**
 
 ### Byeeeee ❤️
  
