@@ -18,17 +18,11 @@ Here are some ideas to get you started:
 
 #### All I need is A Spark, A Point, A Road to Begin my Professional Career
 
-- ### I am a Software Developer with a Dash of Application Security and greatly interested in Network, Application and Hardware Security.
+- **I am a Software Developer with a Dash of Application Security and greatly interested in Network, Application and Hardware Security.**
 
 - ### Also a DIY Handyman working around Old HiFi Systems, Electronics, Cars, Computers, Legos, Home Wiring and Motorcycles.
 
 - ### I am a Computer Science and Engineering Graduate from Karunya Institute of Technology and Sciences, Class of 2023. 
-
-- ### And In July 2024, I had joined for Post Graduate in Computer Science at Amrita University, Class of 2026 but withdrew in Jan 2025 due to health reasons.
-
-### Now I am Fully Recovered and <u>Focusing on Getting a Full Time Career </u> and doing Research and Development.
-
-
 
 ## My Tech Stack:- 
 
