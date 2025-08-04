@@ -55,7 +55,7 @@ Go(Mainly for Research in Distributed Systems and IPC, Message Passing - Event D
  
 **Some days I have the energy, Some days I don't. <br><br>Hence my GitHub Commit history Is looking More like a Checkered Flag 🏁 🏁 🏳️ 🏳️, rather than like a Green Flag ✅<br>Like I have Relationship and Commitment Issues 💔.**<br>
 
-**Cheee, that analogy to explain the situation is Flop ❌. Eh let me try again, Aha 💡😃, like this dialogue:-<br><br>
+**Cheee, that analogy to explain the situation is A Flop ❌. Ehhh, let me try again, Aha 💡😃, like this dialogue:-<br><br>
 "Carina Smyth: No, no I’m a Horologist.<br>
 Scrum: So was my mum but she didn’t cry as loud as you.<br>
 Carina Smyth: You saying your mother was academically inclined?<br>
