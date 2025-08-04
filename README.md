@@ -53,13 +53,19 @@ Go(Mainly for Research in Distributed Systems and IPC, Message Passing - Event D
 
 **I have nobody(except eh, my parents?🤔🤒) and<br> I am my own Everybody.**
  
-**Some days I have the energy, Some days I don't. <br><br>Hence my GitHub Commit history - Green Flag ✅ is looking more like a Checkered Flag 🏁 🏁 🏳️ 🏳️ - <br>Like I have Relationship and Commitment Issues 💔.**
+**Some days I have the energy, Some days I don't. <br><br>Hence my GitHub Commit history Is looking More like a Checkered Flag 🏁 🏁 🏳️ 🏳️, rather than like a Green Flag ✅<br>Like I have Relationship and Commitment Issues 💔.**<br>
 
-<br><br>
+**Cheee, that analogy to explain the situation is Flop ❌. Eh let me try again, Aha 💡😃, like this dialogue:-<br><br>
+"Carina Smyth: No, no I’m a Horologist.<br>
+Scrum: So was my mum but she didn’t cry as loud as you.<br>
+Carina Smyth: You saying your mother was academically inclined?<br>
+Jack Sparrow: More like horizontally, reclined."**
+
+<br>
 
 ### Hey At Least I am a Green flag 😉 ❤️
 
-<br><br>
+<br>
 
 **Thank you for sticking along till the end of my dump of emotions 😍 ,<br> More of my mind vomit can be found - ["Here"](https://github.com/sharansudheer/museum-of-projects)**
 
