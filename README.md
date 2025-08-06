@@ -17,12 +17,21 @@ Here are some ideas to get you started:
 #### My name is Sharan 😁 ❤️
 
 ### All I need is A Spark, A Point, A Road to Begin my Professional Career
-
 - **I am a Software Developer with a Dash of Application Security and greatly interested in Network, Application and Hardware Security.**
 
 - **Also a DIY Handyman working around Old HiFi Systems, Electronics, Cars, Computers, Lego, Home Wiring and Motorcycles.**
 
-- **I am a Computer Science and Engineering Graduate from Karunya Institute of Technology and Sciences, Class of 2023.** 
+- **I am a Computer Science and Engineering Graduate from Karunya Institute of Technology and Sciences, Class of 2023.**<br><br>
+
+- **I am completely Self motivated and Self Driven, by my Business Goals and Interview Prep(technically another Business Goal 😂 ). So as an Internal Combustion Engine(not), Nice requires fuel. Haven't transitioned to Nuclear.**
+
+- Business Goals as in -<br>**Hey, I am a Brand myself 😂**<br><br>A Software Engineer, Any Professional is a unique Brand, isn't it? 
+  - But here, because of my situation - A **Cosplay**, as well. Eh sort of 😬 😬 - 
+    - Like working on Software Projects that quench my Thirst to Feel Like, Yess I am Employed and I am a part of Something Big.
+    - Like a Research and Development Engineer.
+    - Find Problems, Plan and Craft Solutions.
+    - Some are related to finding solutions to the challenges that I faced during the planning phase of my personal domain.
+  - Others to Feel like I am in the Shoes of developing a Product under a Brand.
 
 ## My Tech Stack:- 
 
