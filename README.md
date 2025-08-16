@@ -83,7 +83,7 @@ Jack Sparrow: More like horizontally, reclined."**
 
 **Running on Decaliters of Coffee ☕️ ☕️<br><br>
 Brewed so strong, that it will burn your Soul Aawwaayy 💀 because of the bitterness and absence of sweeteners.<br><br>
-Jokes side, I prefer either A Flat White with maybe an extra shot of espresso or while I am at Home or Traveling, I would mix up an Americano concoction without sugar using Nescafe Gold (about 2-3 tsp, 10-15g approx)**
+Jokes aside, I prefer either A Flat White with maybe an extra shot of espresso or while I am at Home or Traveling, I would mix up an Americano concoction without sugar using Nescafe Gold (about 2-3 tsp, 10-15g approx)**
 
 ### Byeeeee ❤️
  
