@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - Orthodox, maybe an unorthodox Scrum master, probably a janitor driving a Scrubmaster at a Retailer.<br>Because how else am I supposed to manage over 5 projects concurrently without introducing **Priority Inversion**.<br><br>
 
-**Building an Empire, eh probably an Umpire, Parley?**<br><br>
+### Building an Empire 👑 , eh probably an Umpire 👨🏻‍⚖️ , Parley?<br><br>
 
 - **Also a DIY Handyman working around Old HiFi Systems, Electronics, Cars, Computers, Lego, Home Wiring and Motorcycles.**
 
