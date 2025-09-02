@@ -20,6 +20,16 @@ Here are some ideas to get you started:
 
 - **I am a Software Developer with a Dash of Application Security and greatly interested in Network, Application and Hardware Security.**
 
+- Focusing Primarily On :-
+  - Web Back-End Development - ASP.NET Core, Redis, PostgreSQL and MS SQL
+  - Web App, API and DB Security (By-product of Development 😂)
+  - Software Architecture
+  - Database Design
+  - Basic Wire-Framing
+  - Native Android Development
+
+- Orthodox, maybe an unorthodox Scrum master, probably a janitor driving a Scrubmaster at a Retailer.<br>Because how else am I supposed to manage over 5 projects concurrently without introducing **Priority Inversion**.
+
 - **Also a DIY Handyman working around Old HiFi Systems, Electronics, Cars, Computers, Lego, Home Wiring and Motorcycles.**
 
 - **I am a Computer Science and Engineering Graduate from Karunya Institute of Technology and Sciences, Class of 2023.**<br><br>
