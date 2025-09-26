@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 - **I am a Software Developer with a Dash of Application Security and greatly interested in Network, Application and Hardware Security.**
 
+- Events, Weddings, Portraiture Freelance, Semi-Professional Photographer with 14 years of experience
+  - Ever since I started experimenting with composition techniques back in 2011 and a somewhat Photo-Cinema Gear Nerd. Started with the Canon 1100D.
+  - I want to try out Dance Photography as well.
+
 - Focusing Primarily On :-
   - Web Back-End Development - ASP.NET Core, Redis, PostgreSQL and MS SQL
   - Web App, API and DB Security (By-product of Development 😂)
