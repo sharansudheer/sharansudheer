@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 ## My name is Sharan 😁 ❤️
 
-### I am an ASP.NET Back-End Software Developer with a Dash of Application Security
+### I am an ASP.NET Back-End Software Developer + Learning Rust with a Dash of Application Security
   
-- Focusing Primarily On :-
-  - Web Back-End Development - ASP.NET Core, Redis, PostgreSQL and MS SQL
-  - Web App Security (By-product of Development 😂)
-  - Software Architecture
-  - Database Design
-  - Basic Wire-Framing
-  - Native Android Development
+Focusing Primarily On :-
+- Web Back-End Development - ASP.NET Core, Redis, PostgreSQL and MS SQL
+- Web App Security (By-product of Development 😂)
+- Software Architecture
+- Database Design
+- Basic Wire-Framing
+- Native Android Development
 
 ## My Tech Stack:- 
 
@@ -53,7 +53,7 @@ Events, Weddings, Portraiture Freelance, Semi-Professional Photographer with 14 
   - Ever since I started experimenting with composition techniques back in 2011 and a somewhat Photo-Cinema Gear Nerd. Started with the Canon 1100D.
 
 
-#### Running on Decaliters of Coffee ☕️ ☕️
+### Running on Decaliters of Coffee ☕️ ☕️
 Brewed so strong, that it will burn your Soul Aawwaayy 💀 because of the bitterness and absence of sweeteners.<br><br>
 Jokes aside, I prefer either A Flat White with maybe an extra shot of espresso or while I am at Home or Traveling, I would mix up an Americano concoction without sugar using Nescafe Gold (about 2-3 tsp, 10-15g approx)**
 
