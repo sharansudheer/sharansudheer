@@ -39,7 +39,7 @@ Focusing Primarily On :-
 (Have used MariaDB, Hadoop and Cassandra as a part of under grad as well)
 
 
-## Building an Empire 👑 , eh probably an Umpire 👨🏻‍⚖️ , Parley?<br><br>
+## Building an Empire 👑 , eh probably an Umpire 👨🏻‍⚖️ , Parley?
 
 Also a DIY Handyman working around Old HiFi Systems, Electronics, Cars, Computers, Lego, Home Wiring and Motorcycles.
 
