@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## My name is Sharan 😁 ❤️
 
 ### I am an ASP.NET Back-End Software Developer + Learning Rust with a Dash of Application Security
-#### And Welcome To My Puntastic World 🤣 🤣
+### And Welcome To My Puntastic World 🤣 🤣
   
 Focusing Primarily On :-
 - Web Back-End Development - Dot Net + Rust
@@ -41,9 +41,9 @@ Focusing Primarily On :-
 
 ## Building an Empire 👑 , eh probably an Umpire 👨🏻‍⚖️ , Parley?
 
-- This is Platform where I can be the Unhinged version of myself. Where my Puns and Ideas can work wonders. Just an amazing platform to collaborate and Explore the Ideas that I have, make it work or atleast try.
+- ### This is Platform where I can be the Unhinged version of myself. Where my Puns and Ideas can work wonders. Just an amazing platform to collaborate and Explore the Ideas that I have, make it work or atleast try.
 
-- ### A World without Any Boundaries Except The Boundries of One's Imagination
+- ### A World without Any Boundaries Except The Boundaries of One's Imagination
 
 - Also a DIY Handyman working around Old HiFi Systems, Electronics, Cars, Computers, Lego, Home Wiring and Motorcycles.
 
