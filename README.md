@@ -46,10 +46,11 @@ Here are some ideas to get you started:
 
 **SaSS and Sauce makes up a Sassy Sauce**
 - Let's Have a Cosplay, Pretend As If We're The Product Leads And We Own The Agile Saga.  
+- Modularity, Reuseability and Compostion, like little **Lego** pieces.
 - No Business Overheads, No Stand Ups, Sit downs, No Night Stands(Ikea night stands, a train of synonyms for Stand, not Stan), No Competitions, just FOSSi.
 - User Stories = Ideas, Epics = End Goals, Sagas = Vision. And No, this isn't a plot for the next Avengers Movie.  
 
-- We Design the Plot, the Fabrics, The Pipelines, the Cloud - hmm, Johnny Sins?
+- We Design the Plot, the Fabrics, The Pipelines, the Cloud - hmm, **Johnny Sins**?
 
 **As you can already tell - I don't want to copy a Profile README Template like everyone else does,because It wouldn't describe my personality, not even a Percentage of it**
 
