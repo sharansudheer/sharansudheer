@@ -47,9 +47,6 @@ Here are some ideas to get you started:
 - No Business Overheads, No Stand Ups, Sit downs, No Night Stands(Ikea night stands, a train of synonyms for Stand, not Stan), No Competitions, just FOSSi.
 - User Stories = Ideas, Epics = End Goals, Sagas = Vision. And No, this isn't a plot for the next Avengers Movie.  
 
-
-**SaSS and Sauce makes up a Sassy Sauce**
-
 **As you can already tell - I don't want to copy a Profile README Template like everyone does, because it wouldn't give a hint about My Personality**
 
 - Personlity = Individuality = Brand
