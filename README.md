@@ -42,18 +42,17 @@ Here are some ideas to get you started:
 
 **This is a Platform where I and other FOSS contributers Can Portray Their Unhinged Version of themselves. Where Puns, Buns, Coffee and Ideas Can Work Wonders.**
 - **Just An Amazing Platform To Collaborate and Explore the Ideas that We'll Have, Make It Work Or Die Trying(not dye).**
-- **This is a World Without Any Boundaries(From Corporate Lords) Except The Boundaries of One's Imagination. Mr Worldwide??**  
-
-**SaSS and Sauce makes up a Sassy Sauce**
-- Let's Have a Cosplay, Pretend As If We're The Product Leads And We Own The Agile Saga.  
+- **This is a World Without Any Boundaries, Except The Boundaries of One's Imagination. Mr Worldwide??**
 - Modularity, Reuseability and Compostion, like little **Lego** pieces.
 - No Business Overheads, No Stand Ups, Sit downs, No Night Stands(Ikea night stands, a train of synonyms for Stand, not Stan), No Competitions, just FOSSi.
 - User Stories = Ideas, Epics = End Goals, Sagas = Vision. And No, this isn't a plot for the next Avengers Movie.  
 
-- We Design the Plot, the Fabrics, The Pipelines, the Cloud - hmm, **Johnny Sins**?
 
-**As you can already tell - I don't want to copy a Profile README Template like everyone else does,because It wouldn't describe my personality, not even a Percentage of it**
+**SaSS and Sauce makes up a Sassy Sauce**
 
+**As you can already tell - I don't want to copy a Profile README Template like everyone does, because it wouldn't give a hint about My Personality**
+
+- Personlity = Individuality = Brand
 - I love Lego, probably its the only other relationship I have apart from GitHub. Have been working on Lego sets since 2008 and on Lego MindStorms 2.0 from 2011 until 2019, the main brick got bricked during an Update. 
 - Also a DIY Handyman working around Old HiFi Systems, Electronics, Cars, Computers, Lego, Home Wiring and Motorcycles.
 - Events, Weddings, Portraiture Freelance, Semi-Professional Photographer with 14 years of experience(I started when I was a kid)
