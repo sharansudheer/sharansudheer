@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ### Running on Decaliters of Coffee ☕️ ☕️
 **Brewed so strong, that it will burn your Soul Aawwaayy 💀 because of the bitterness and absence of sweeteners.  
-Jokes aside, I prefer either A Flat White with maybe an extra shot of espresso or while I am at Home or Traveling, I would mix up an Americano concoction without sugar using Nescafe Gold (about 2-3 tsp, 10-15g approx)**
+Jokes aside, I prefer either A Flat White with maybe an extra shot of espresso or while I am at Home or Traveling, I would mix up an Americano concoction without sugar using Nescafe Gold (about 2-3 tsp, 4-6g approx)**
 
 ### Byeeeee ❤️
  
